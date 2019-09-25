@@ -1,8 +1,21 @@
 # UCI Abalone Dataset
 
+#### -- Project Status: [Active,]
 
+## Project Intro/Objective
+Using Machine Learning to predicting the age of individual abalone based on their physical characteristics.
 
-Predicting the age of individuals based on physical characteristics.
+### Methods Used
+* Inferential Statistics
+* Data Visualization
+* Machine Learning
+* Predictive Modeling
+
+### Technologies
+* Python
+* Pandas, Matplotlib, seaborn, jupyter
+* Scikit-learn
+
 ## Title of Database: Abalone data
 
 ## Sources:
