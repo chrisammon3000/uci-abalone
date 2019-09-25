@@ -162,5 +162,10 @@ Using Machine Learning to predict the age of individual abalone based on their p
 	-----	----
 	Total	4177
 
+  ## Contributing DSWG Members
+
+  **Team Leads (Contacts) : [Gregory Lindsey](https://github.com/gclindsey**
+
+
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
